@@ -1,0 +1,19 @@
+{
+  "name": "when_you_watch_computer",
+  "version": "1.0.0",
+  "description": "Computer in Love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andr3colonel/when_you_watch_computer.git"
+  },
+  "author": "jabinushka <jabinushka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andr3colonel/when_you_watch_computer/issues"
+  },
+  "homepage": "https://github.com/andr3colonel/when_you_watch_computer#readme"
+}
